@@ -144,8 +144,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 # Step 6 - How to link another folder or file
 
-[Asset Folder](assets)
-[Pipe Character File](assets/pipe-character.jpg)
+- [Asset Folder](assets)
+- [Pipe Character File](assets/pipe-character.jpg)
 
 
 ## External References
