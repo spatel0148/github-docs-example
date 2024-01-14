@@ -142,6 +142,10 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - but it may vary based on your keyboard type.
 
 
+# Step 6 - How to link another folder or file
+
+[Asset Folder](assets)
+
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
