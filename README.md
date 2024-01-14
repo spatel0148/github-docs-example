@@ -80,7 +80,7 @@ Once you are logged in, and it is rendered on your computer screen, it should be
 4. **Using Screenshot App**
    - Press `Shift` + `Command` + `5` to open the Screenshot app.
 
-[More details on Apple Support](https://support.apple.com/en-us/102646)
+For additional information please look at the external resources[<sup>[6]</sup>](#external-references)
 
 #### Windows
 
@@ -149,3 +149,4 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[3]</sup>
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)<sup>[4]</sup>
 - [GFM - Tables (with extentions)](https://github.github.com/gfm/#tables-extension-)<sup>[5]</sup>
+- [More details on Apple Support](https://support.apple.com/en-us/102646)<sup>[6]</sup>
