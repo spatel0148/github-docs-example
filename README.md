@@ -12,9 +12,12 @@ This is becasue it allows others to copy and paste their code to replicate or re
 - Not to be confused with qoutations (')
 
 
-Make note of here the backtick button is located.
-It should appear above the tab key, but it may vary based on your keyboard type.
-<img width="300px" src="https://github.com/spatel0148/github-docs-example/assets/123823209/30b94269-bcf1-4f71-a7d4-2d18f584d5ba" />
+<img width="300px" src=assets/backtick-character.jpg />
+
+- Make note of here the backtick keyboard key is located.
+- It should appear above the return or enter key
+- but it may vary based on your keyboard type.
+
 
 
 
@@ -44,6 +47,59 @@ TypeError: Input must be a numeric value
     from (irb):12:in `<main>'
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
+
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take a screenshot, make sure it is not a photo from your phone. 
+
+> There are certain cases where it is okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. Another example that is okay is when you are booting up your computer.
+Once you are logged in, and it is rendered on your computer screen, it should be a screenshot. 
+
+## Step 2 - How to take a screenshot.
+
+- A screenshot is when you capture a part of your screen from your laptop, desktop or phone. 
+
+- This is not to be confused with taking a photo with your phone. 
+
+### Taking Screenshots
+
+#### macOS
+
+1. **Entire Screen**
+   - Press `Shift` + `Command` + `3`.
+   - The screenshot will save to the desktop.
+
+2. **Portion of the Screen**
+   - Press `Shift` + `Command` + `4`.
+   - Drag to select the area.
+   - The screenshot will save to the desktop.
+
+3. **Specific Window or Menu**
+   - Press `Shift` + `Command` + `4` + `Space bar`.
+   - Click the window or menu to capture.
+
+4. **Using Screenshot App**
+   - Press `Shift` + `Command` + `5` to open the Screenshot app.
+
+[More details on Apple Support](https://support.apple.com/en-us/102646)
+
+#### Windows
+
+1. **Entire Screen**
+   - Press `PrtScn`.
+   - Captures the entire screen to the clipboard.
+
+2. **Active Window**
+   - Press `Alt` + `PrtScn`.
+   - Captures only the active window to the clipboard.
+
+3. **Select Area to Capture**
+   - Press `Windows` + `Shift` + `S`.
+   - Use Snip & Sketch to select and capture.
+
+4. **Save Screenshot as File**
+   - Press `Windows` + `PrtScn`.
+   - Saves the screenshot in the Pictures > Screenshots folder.
+
 
 
 ## Step 3 - Use Github Flavoured Markdown (GFM) Task Lists
@@ -78,6 +134,14 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[5]</sup>](#external-references)
+
+
+![Photo of the pipe character on our keyboard](assets/pipe-character.jpg)
+- Make note of here the pipe keyboard key is located.
+- It should appear above the return or enter key
+- but it may vary based on your keyboard type.
+
+
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
